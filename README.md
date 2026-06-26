@@ -303,6 +303,10 @@ Unlike symmetric sections, a T-section centroid is not at mid-height. The code c
 
 <div align="center">
 
-Made with Python · MIT License
+Made with Python
 
 </div>
+
+<img width="1152" height="648" alt="Engineering_toolkit" src="https://github.com/user-attachments/assets/2f53c66c-6b8c-45a5-b0e8-fb529ff346e3" />
+
+
