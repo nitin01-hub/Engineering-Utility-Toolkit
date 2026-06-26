@@ -1,0 +1,5 @@
+# Engineering Calculator Toolkit
+# Python 3.8+ — all stdlib, no installs needed for core + UI
+# Optional: pytest for running tests
+
+pytest>=7.0          # for test runner only
