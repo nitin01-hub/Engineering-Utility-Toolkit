@@ -6,7 +6,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/UI-Tkinter-FF6B35?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)
 ![Tests](https://img.shields.io/badge/Tests-25%20Passing-22C55E?style=for-the-badge)
 ![Dependencies](https://img.shields.io/badge/Dependencies-Zero%20(stdlib)-A855F7?style=for-the-badge)
 
